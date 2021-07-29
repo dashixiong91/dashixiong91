@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![shengxinjing's github stats](https://github-readme-stats.vercel.app/api?username=shengxinjing)](https://github.com/anuraghazra/github-readme-stats)
+[![dashixiong91's github stats](https://github-readme-stats.vercel.app/api?username=dashixiong91)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dashixiong91/dashixiong91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
